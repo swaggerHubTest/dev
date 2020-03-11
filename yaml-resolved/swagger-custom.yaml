@@ -3,7 +3,7 @@ swagger: "2.0"
 info:
   description: This is a sample Petstore APIs
   version: 1.0.0
-  title: All-
+  title: all-plugins
   termsOfService: http://swagger.io/terms/
   contact:
     email: apiteam@swagger.io
