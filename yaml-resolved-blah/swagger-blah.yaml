@@ -18,7 +18,7 @@ externalDocs:
   url: http://swagger.io
 servers:
 - url: https://dev-virtserver.swaggerhub.com/malt-v5-team/oas3-github-test/1.0.0
-  description: SwaggerHub API Auto Mockings
+  description: SwaggerHub
 - url: https://dev-virtserver.swaggerhub.com/qa1-org/oas3-github-test/1.0.0
   description: SwaggerHub API Auto Mocking
 tags:
