@@ -20,7 +20,7 @@ tags:
 
 paths:
   /inventory:
-    get:
+    put:
       tags:
       - developers
       summary: searches inventory
