@@ -6,7 +6,7 @@
     "version" : "1.0.0"
   },
   "servers" : [ {
-    "url" : "http://10.200.30.98.nip.io/virts/SmartBear/test/1.0.0",
+    "url" : "https://eloquent-davinci.ingress.replicatedcluster.com/virts/SmartBear/test/1.0.0",
     "description" : "SwaggerHub API Auto Mocking"
   } ],
   "paths" : {
